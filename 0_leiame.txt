@@ -1,0 +1,11 @@
+Arquivo: geracao_dados_atendimento.py
+Conteúdo: script python para geração aleatória de dados de atendimentos, restringidos às dimensões do banco;
+
+Arquivo: geracao_datas_pacientes.py
+Conteúdo: script python para geração aleatória de datas de nascimento dos pacientes
+
+Arquivo: consulta_filtrada1.sql
+Conteúdo: query para análise dos bancos OLTP e OLAP, contando a quantidade de registros por cidade
+
+Arquivo: consulta_geral.sql
+Conteúdo: query para análise dos bancos OLTP e OLAP, explorando a união de todas as tabelas
