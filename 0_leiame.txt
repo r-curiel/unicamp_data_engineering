@@ -9,3 +9,9 @@ Conteúdo: query para análise dos bancos OLTP e OLAP, contando a quantidade de 
 
 Arquivo: consulta_geral.sql
 Conteúdo: query para análise dos bancos OLTP e OLAP, explorando a união de todas as tabelas
+
+Arquivo: OLAP_DICT.csv
+Conteúdo: resultado do INFORMATION_SCHEMA.COLUMNS do banco OLAP, contendo colunas e tipagem
+
+Arquivo: OLTP_DICT.csv
+Conteúdo: resultado do INFORMATION_SCHEMA.COLUMNS do banco OLTP, contendo colunas e tipagem
