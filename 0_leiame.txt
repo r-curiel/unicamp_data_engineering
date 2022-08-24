@@ -15,3 +15,12 @@ Conteúdo: resultado do INFORMATION_SCHEMA.COLUMNS do banco OLAP, contendo colun
 
 Arquivo: OLTP_DICT.csv
 Conteúdo: resultado do INFORMATION_SCHEMA.COLUMNS do banco OLTP, contendo colunas e tipagem
+
+Arquivo: generate_dentistas.csv
+Conteúdo: dados de dentistas gerados no site https://www.mockaroo.com/ (500 registros)
+
+Arquivo: generate_pac1.csv
+Conteúdo: primeiro lote de dados gerados no site https://www.mockaroo.com/ (1000 registros)
+
+Arquivo: generate_pac2.csv
+Conteúdo: segundo lote de dados gerados no site https://www.mockaroo.com/ (1000 registros)
