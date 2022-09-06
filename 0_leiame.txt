@@ -24,3 +24,12 @@ Conteúdo: primeiro lote de dados gerados no site https://www.mockaroo.com/ (100
 
 Arquivo: generate_pac2.csv
 Conteúdo: segundo lote de dados gerados no site https://www.mockaroo.com/ (1000 registros)
+
+Arquivo: resultados_OLAP.sql
+Conteúdo: consultas para análise de resultados do banco OLAP.
+
+Arquivo: resultados_OLTP.sql
+Conteúdo: consultas para análise de resultados do banco OLTP.
+
+Arquivo: CET0604.rar
+Conteúdo: banco de dados do estudo.
